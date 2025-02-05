@@ -1,13 +1,13 @@
 # ninja log v6
 4383	5138	7597782674168037	_deps/raylib-build/raylib/CMakeFiles/raylib.dir/rshapes.c.obj	6469564b35ede013
 16119	18442	7597782791518055	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj	31bebbe78e7b6673
-17	108731	7597795397771182	build.ninja	d594efa26b7b749
+12	1376	7599499636102955	build.ninja	d594efa26b7b749
 24	4377	7597782630578010	_deps/raylib-build/raylib/CMakeFiles/raylib.dir/rcore.c.obj	42aae90dca28980e
 41	4428	7597782630748017	_deps/raylib-build/raylib/CMakeFiles/raylib.dir/rmodels.c.obj	919477dde9b4302e
-15149	17331	7597782781828124	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	30c7533afb56d704
 9	10372	7597782630417996	_deps/raylib-build/raylib/CMakeFiles/raylib.dir/raudio.c.obj	f0d2e5f2fa5cdac3
-13741	16118	7597782767738051	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	81ba58cbb118cebc
+15149	17331	7597782781828124	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	30c7533afb56d704
 4428	5761	7597782674618053	_deps/raylib-build/raylib/CMakeFiles/raylib.dir/rtext.c.obj	92f550f9ca59e8c3
+13741	16118	7597782767738051	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	81ba58cbb118cebc
 6220	8846	7597782692538073	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/context.c.obj	78be5b9e29db8be0
 11518	13740	7597782745518049	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/platform.c.obj	cfdf866f34bc6c76
 5762	6220	7597782687948043	_deps/raylib-build/raylib/CMakeFiles/raylib.dir/utils.c.obj	13444833a3d718af
@@ -29,8 +29,9 @@
 23432	25799	7597782864658076	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	4daeda458a73c5a1
 23634	26194	7597782866678073	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	b1e279c32d4a7174
 57	934	7597783373850286	_deps/raylib-build/raylib/libraylib.a	2530f413f1c00d62
-19	1220	7597795057948745	CMakeFiles/Block08.dir/main.cpp.obj	dfc449bebad19c1f
-1221	1946	7597795069968760	Block08.exe	2ba39abbde68f35f
-12	1376	7597795397771182	build.ninja	d594efa26b7b749
 19	1184	7597795399341152	CMakeFiles/Block08.dir/main.cpp.obj	dfc449bebad19c1f
 1185	1989	7597795411001181	Block08.exe	2ba39abbde68f35f
+250	4245	7604703515865713	CMakeFiles/Block08.dir/main.cpp.obj	dfc449bebad19c1f
+4246	5314	7604703555825244	Block08.exe	2ba39abbde68f35f
+39	769	7604704947666207	CMakeFiles/Block08.dir/main.cpp.obj	dfc449bebad19c1f
+771	2907	7604704954981568	Block08.exe	2ba39abbde68f35f

@@ -11,6 +11,6 @@
 -- Compiling with the flags:
 --   PLATFORM=PLATFORM_DESKTOP
 --   GRAPHICS=GRAPHICS_API_OPENGL_33
--- Configuring done (0.9s)
--- Generating done (0.2s)
+-- Configuring done (6.7s)
+-- Generating done (0.7s)
 -- Build files have been written to: C:/Users/hardixav000/CLionProjects/Block08/cmake-build-debug
